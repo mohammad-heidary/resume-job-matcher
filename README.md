@@ -108,7 +108,7 @@ job_opportunities.json
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ---
 📬 Contact
-Feel free to reach out via LinkedIn or open an issue.
+Feel free to reach out via LinkedIn or open an issue. (www.linkedin.com/in/mohammad-heidary-262157343)
 ---
 📝 License
 This project is licensed under the MIT License.
