@@ -83,9 +83,7 @@ Similarity score (lower = more similar)
 📄 Sample Data Format
 resumes.json
 
-json
-Copy
-Edit
+
 [
   {
     "id": 1,
@@ -96,9 +94,7 @@ Edit
 ]
 job_opportunities.json
 
-json
-Copy
-Edit
+
 [
   {
     "title": "Backend Developer",
