@@ -81,9 +81,9 @@ Similarity score (lower = more similar)
 ---
 
 📄 Sample Data Format
+
+
 resumes.json
-
-
 [
   {
     "id": 1,
@@ -92,9 +92,9 @@ resumes.json
     "key_words": ["python", "django", "api", "backend", "software"]
   }
 ]
+
+
 job_opportunities.json
-
-
 [
   {
     "title": "Backend Developer",
